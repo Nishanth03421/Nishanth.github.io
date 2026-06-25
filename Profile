@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nishanth K</title>
+</head>
+<body style="font-family: Arial; text-align: center;">
+
+    <h1>Marketing Manager</h1>
+    <p>Dolar Systems & Services Pvt.Ltd.</p>
+
+    <h2>About Me</h2>
+    <p>Marketing Professional | B2B Sales | MBA-MS | Technical Backgroud</p>
+
+    <h2>Skills</h2>
+    <ul style="list-style: none;">
+        <li>Social Media Pages Handling</li>
+        <li>Marketing Campaings</li>
+        <li>Website Creation</li>
+        <li>Administrative Management</li>
+        <li>Executive Assistant</li>
+    </ul>  
+
+    <h2>Contact</h2>
+    <p>Email: nishanth.k021@gmail.com</p>
+
+</body>
+</html>
